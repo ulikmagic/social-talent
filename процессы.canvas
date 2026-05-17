@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"497d40ec40b73193","type":"text","text":"## Контекст \n\nвопросы:\n1. Где я нахожусь?\n2. Какое мое положение?\n3. Какими ресурсами обладаю в текущий момент?\n\nитог: \n1. Формула для контекста\n2. Законы общества\n3. психотипы людей","x":40,"y":-1200,"width":440,"height":360,"color":"#4400ff"},
+		{"id":"17e6f7b9567dc9c3","type":"text","text":"Какая цель? ","x":-480,"y":-1060,"width":200,"height":80,"color":"4"},
+		{"id":"38fb3c01263cfa6d","type":"text","text":"База данных\n1. Психотипы людей\n2. Формулы для контекста\n3. Законы в разных обществах\n4. Повадки у общества\n5. Практики для прокакчи навыков ","x":-480,"y":-1722,"width":520,"height":222,"color":"3"},
+		{"id":"bb3d7e9766c2779b","type":"text","text":"Инструменты\n1. Образ для работы (на основе формуы)\n2. Умения для личных отношении","x":840,"y":-1120,"width":440,"height":200,"color":"#4400ff"},
+		{"id":"d055d31721e57fb1","type":"text","text":"Что делать сейчас ?\n1. Настроение группы\n2. Что творится в группе?\n3. Что планируется в ближайшем будущем\n4. Какие проблемы? ","x":1520,"y":-1120,"width":400,"height":200,"color":"#4400ff"},
+		{"id":"9f792d53fd32dd3b","type":"text","text":"Какой ты видишь результат. нужно описать реалистично в  пунктах как должен выглядить жизнь когда достиг цели и насколько близко у тебя получмилось в проценах","x":2708,"y":-1120,"width":250,"height":200,"color":"4"},
+		{"id":"6124f5cda7523746","type":"text","text":" результаты","x":2200,"y":-920,"width":250,"height":60,"color":"6"},
+		{"id":"d9b9860e91e30cfd","type":"text","text":"Ошибки","x":2192,"y":-1156,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"f8fe1c7970b1bf84","fromNode":"17e6f7b9567dc9c3","fromSide":"right","toNode":"497d40ec40b73193","toSide":"left"},
+		{"id":"ea32bf47c790202c","fromNode":"497d40ec40b73193","fromSide":"right","toNode":"bb3d7e9766c2779b","toSide":"left"},
+		{"id":"9b081f30fe450314","fromNode":"bb3d7e9766c2779b","fromSide":"right","toNode":"d055d31721e57fb1","toSide":"left"},
+		{"id":"b4edc21deff62f7a","fromNode":"497d40ec40b73193","fromSide":"top","toNode":"38fb3c01263cfa6d","toSide":"right","color":"3"},
+		{"id":"7089624714469370","fromNode":"bb3d7e9766c2779b","fromSide":"top","toNode":"38fb3c01263cfa6d","toSide":"right","color":"3"},
+		{"id":"b1108ca3966b1c66","fromNode":"d055d31721e57fb1","fromSide":"top","toNode":"38fb3c01263cfa6d","toSide":"right","color":"3"},
+		{"id":"70e3fd7bb252bf31","fromNode":"d055d31721e57fb1","fromSide":"right","toNode":"6124f5cda7523746","toSide":"left"},
+		{"id":"abf50f00cbb89858","fromNode":"6124f5cda7523746","fromSide":"right","toNode":"9f792d53fd32dd3b","toSide":"left"},
+		{"id":"5979a85284852803","fromNode":"38fb3c01263cfa6d","fromSide":"right","toNode":"497d40ec40b73193","toSide":"top","color":"3"},
+		{"id":"0293641c6c7f5107","fromNode":"38fb3c01263cfa6d","fromSide":"right","toNode":"bb3d7e9766c2779b","toSide":"top","color":"3"},
+		{"id":"eb3b1355724d2936","fromNode":"38fb3c01263cfa6d","fromSide":"right","toNode":"d055d31721e57fb1","toSide":"top","color":"3"},
+		{"id":"c5281383b08d1694","fromNode":"d055d31721e57fb1","fromSide":"right","toNode":"d9b9860e91e30cfd","toSide":"left"},
+		{"id":"535f90699ea9feec","fromNode":"d9b9860e91e30cfd","fromSide":"right","toNode":"9f792d53fd32dd3b","toSide":"left"},
+		{"id":"633446f16bf215a5","fromNode":"9f792d53fd32dd3b","fromSide":"bottom","toNode":"497d40ec40b73193","toSide":"bottom","color":"4"}
+	]
+}

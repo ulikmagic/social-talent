@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "6b975ffdc6ba338c",
+    "type": "split",
+    "children": [
+      {
+        "id": "41275fd43575e870",
+        "type": "split",
+        "children": [
+          {
+            "id": "6be83215f3415b60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f4d416498afbf938",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "процессы.canvas",
+                    "viewState": {
+                      "x": 820.9084360008047,
+                      "y": -1158.6865597131145,
+                      "zoom": -1.5494669985340712
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "процессы"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d292dd26aa95f627",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1fe062f3fe4a1c21",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {
+                    "tabs": [
+                      {
+                        "name": "Terminal 1",
+                        "color": "",
+                        "cwd": "C:\\Users\\Public\\социальный талант",
+                        "bufferSerial": "Microsoft Windows [Version 10.0.26200.8457]\r\n(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.\r\n\r\nC:\\Users\\Public\\социальный талант>npm i gemini cli \r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0minflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0msource-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0mrimraf@2.6.3: Rimraf versions prior to v4 are no longer supported\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0murix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0mglob@7.2.3: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0mhar-validator@5.1.5: this library is no longer supported\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0mq@1.5.1: You or someone you depend on is using Q, the JavaScript Promise library that gave JavaScript developers strong feelings about promises. They can almost certainly migrate to the native JavaScript promise now. Thank you literally everyone for joining me in this bet against the odds. Be excellent to each other.\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated\r\n\u001b[39;1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0m(For a CapTP with native promises, see @endo/eventual-send and @endo/captp)\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0mresolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0msource-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0muuid@3.4.0: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0mrequest@2.88.0: request has been deprecated, see https://github.com/request/request/issues/3142\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mdeprecated \u001b[0mrimraf@2.7.1: Rimraf versions prior to v4 are no longer supported\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup \u001b[0mFailed to remove some directories [\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup   \u001b[0m[\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup     \u001b[32m'\\\\\\\\?\\\\C:\\\\Users\\\\Public\\\\социальный талант\\\\node_modules'\u001b[0m,\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup     \u001b[0m[Error: EPERM: operation not permitted, rmdir 'C:\\Users\\Public\\социальный талант\\node_modules\\browser-resolve\\node_modules\\resolve\\test\\subdirs\\node_modules\\a\\b\\c'] {\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup       \u001b[0merrno: \u001b[33m-4048\u001b[0m,\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup       \u001b[0mcode: \u001b[32m'EPERM'\u001b[0m,\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup       \u001b[0msyscall: \u001b[32m'rmdir'\u001b[0m,\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup       \u001b[0mpath: \u001b[32m'C:\\\\Users\\\\Public\\\\социальный талант\\\\node_modules\\\\browser-resolve\\\\node_modules\\\\resolve\\\\test\\\\subdirs\\\\node_modules\\\\a\\\\b\\\\c'\r\n\u001b[39;1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup     \u001b[0m}\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup   \u001b[0m],\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup   \u001b[0m[\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup     \u001b[32m'\\\\\\\\?\\\\C:\\\\Users\\\\Public\\\\социальный талант\\\\node_modules\\\\browser-resolve'\u001b[0m,\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup     \u001b[0m[Error: EPERM: operation not permitted, rmdir 'C:\\Users\\Public\\социальный талант\\node_modules\\browser-resolve\\node_modules\\resolve\\test\\resolver\\biz\\node_modules'] {\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup       \u001b[0merrno: \u001b[33m-4048\u001b[0m,\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup       \u001b[0mcode: \u001b[32m'EPERM'\u001b[0m,\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup       \u001b[0msyscall: \u001b[32m'rmdir'\u001b[0m,\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup       \u001b[0mpath: \u001b[32m'C:\\\\Users\\\\Public\\\\социальный талант\\\\node_modules\\\\browser-resolve\\\\node_modules\\\\resolve\\\\test\\\\resolver\\\\biz\\\\node_modules'\r\n\u001b[39;1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup     \u001b[0m}\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup   \u001b[0m]\r\n\u001b[1mnpm\u001b[0m \u001b[33mwarn \u001b[94mcleanup \u001b[0m]\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[94mcode \u001b[33m1\r\n\u001b[39;1mnpm\u001b[0m \u001b[31merror \u001b[94mpath \u001b[0mC:\\Users\\Public\\социальный талант\\node_modules\\png-img\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mcommand failed\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[94mcommand \u001b[0mC:\\WINDOWS\\system32\\cmd.exe /d /s /c node-gyp rebuild\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp info it worked if it ends with ok\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp info using node-gyp@11.4.2\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp info using node@24.15.0 | win32 | x64\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp info find Python using Python version 3.13.3 found at \"C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp http GET https://nodejs.org/download/release/v24.15.0/node-v24.15.0-headers.tar.gz\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp http 200 https://nodejs.org/download/release/v24.15.0/node-v24.15.0-headers.tar.gz\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp http GET https://nodejs.org/download/release/v24.15.0/SHASUMS256.txt\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp http GET https://nodejs.org/download/release/v24.15.0/win-x64/node.lib\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp http 200 https://nodejs.org/download/release/v24.15.0/SHASUMS256.txt\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp http 200 https://nodejs.org/download/release/v24.15.0/win-x64/node.lib\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS msvs_version not set from command line or npm config\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS VCINSTALLDIR not set, not running in VS Command Prompt\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS could not use PowerShell to find Visual Studio 2017 or newer, try re-running with '--loglevel silly' for more details.\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS Failure details: undefined\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS unsupported version \"15.9.36001.173\" found at \"C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\"\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS could not find a version of Visual Studio 2017 or newer to use\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS not looking for VS2017 as it is only supported up to Node.js 21\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS not looking for VS2017 as it is only supported up to Node.js 21\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS not looking for VS2017 as it is only supported up to Node.js 21\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS not looking for VS2015 as it is only supported up to Node.js 18\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS not looking for VS2013 as it is only supported up to Node.js 8\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS **************************************************************\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS You need to install the latest version of Visual Studio\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS including the \"Desktop development with C++\" workload.\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS For more information consult the documentation at:\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS https://github.com/nodejs/node-gyp#on-windows\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS **************************************************************\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! find VS\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! configure error\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! stack Error: Could not find any Visual Studio installation to use\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! stack at VisualStudioFinder.fail (C:\\Users\\user\\AppData\\Roaming\\npm\\node_modules\\npm\\node_modules\\node-gyp\\lib\\find-visualstudio.js:118:11)\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! stack at VisualStudioFinder.findVisualStudio (C:\\Users\\user\\AppData\\Roaming\\npm\\node_modules\\npm\\node_modules\\node-gyp\\lib\\find-visualstudio.js:74:17)\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! stack at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! stack at async createBuildDir (C:\\Users\\user\\AppData\\Roaming\\npm\\node_modules\\npm\\node_modules\\node-gyp\\lib\\configure.js:112:18)\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! stack at async run (C:\\Users\\user\\AppData\\Roaming\\npm\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js:81:18) \r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! System Windows_NT 10.0.26200\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! command \"C:\\\\Program Files\\\\nodejs\\\\node.exe\" \"C:\\\\Users\\\\user\\\\AppData\\\\Roaming\\\\npm\\\\node_modules\\\\npm\\\\node_modules\\\\node-gyp\\\\bin\\\\node-gyp.js\" \"rebuild\"\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! cwd C:\\Users\\Public\\социальный талант\\node_modules\\png-img\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! node -v v24.15.0\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! node-gyp -v v11.4.2\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mgyp ERR! not ok\r\n\u001b[1mnpm\u001b[0m \u001b[31merror \u001b[0mA complete log of this run can be found in: C:\\Users\\user\\AppData\\Local\\npm-cache\\_logs\\2026-05-17T18_38_50_302Z-debug-0.log \r\n\r\nC:\\Users\\Public\\социальный талант>git init\r\nReinitialized existing Git repository in C:/Users/Public/социальный талант/.git/\r\n\r\nC:\\Users\\Public\\социальный талант>git add .\r\nfatal: detected dubious ownership in repository at 'C:/Users/Public/социальный талант'\r\nMicrosoft Windows [Version 10.0.26200.8457]\r\n(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.\r\n\r\nC:\\Users\\Public\\социальный талант>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[16A\u001b[34C\u001b[?1004h"
+                      }
+                    ],
+                    "activeIndex": 0
+                  },
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f38f12152afcdbb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c22d92ed47f96d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014394a120272044",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1e8dcb0549afd008",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b62dc62af04d704f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fccb7b1a9078f0bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8935eca58e8fd03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919146294f8f803e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Социальный талант.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Социальный талант"
+            }
+          },
+          {
+            "id": "d30038d8fe7b2d75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Социальный талант.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Социальный талант"
+            }
+          },
+          {
+            "id": "7944af04f32914fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9573aad191d5ed66",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "66664886b246282f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Социальный талант.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Социальный талант"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "lean-terminal:Open terminal": false
+    }
+  },
+  "active": "1fe062f3fe4a1c21",
+  "lastOpenFiles": [
+    "node_modules/function-bind/test",
+    "node_modules/function-bind",
+    "node_modules/glob-to-regexp",
+    "node_modules/is-glob",
+    "node_modules/minimatch",
+    "node_modules/once",
+    "node_modules/parse-asn1",
+    "node_modules/md5.js",
+    "node_modules/browserify-rsa",
+    "node_modules/evp_bytestokey",
+    "node_modules/browserify-des",
+    "node_modules/supports-color/readme.md",
+    "node_modules/has-ansi/readme.md",
+    "node_modules/png-img/dev/vagrant-win-box.md",
+    "node_modules/has/README.md",
+    "node_modules/buffer-xor/README.md",
+    "node_modules/cipher-base/README.md",
+    "node_modules/cipher-base/CHANGELOG.md",
+    "node_modules/bn.js/README.md",
+    "node_modules/brorand/README.md",
+    "node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
+    "node_modules/vargs/README.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/writeJson.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/writeJson-sync.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/remove.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/remove-sync.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/readJson.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/readJson-sync.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/pathExists.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/pathExists-sync.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/outputJson.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/outputJson-sync.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/outputFile.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/outputFile-sync.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/move.md",
+    "node_modules/gemini-coverage/node_modules/fs-extra/docs/fs-read-write.md",
+    "node_modules/png-img/test/data/rgba4x1.png",
+    "node_modules/png-img/test/data/rgb3x1_noalpha.png",
+    "node_modules/png-img/test/data/test32x32.png",
+    "node_modules/png-img/test/data/black2x2rgba.png",
+    "node_modules/wd/test/midway/assets/tux.jpg",
+    "node_modules/browserify-zlib/test/fixtures/person.jpg",
+    "node_modules/stream-http/test/server/static/browserify.png",
+    "node_modules/js-graph-algorithms/third-party-libs/vis/img/network/zoomExtends.png",
+    "node_modules/js-graph-algorithms/third-party-libs/vis/img/network/upArrow.png",
+    "node_modules/js-graph-algorithms/third-party-libs/vis/img/network/plus.png",
+    "процессы.canvas",
+    "Без названия.canvas"
+  ]
+}
