@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6be83215f3415b60",
+        "id": "f6f511cc293be257",
         "type": "tabs",
         "children": [
           {
-            "id": "f4d416498afbf938",
+            "id": "4e7cca85554d8f1c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "процессы.canvas",
-                "viewState": {
-                  "x": 1277.1918732765557,
-                  "y": -1304.0046589946394,
-                  "zoom": -1.610860372811719
-                }
+                "file": "_resources/старая схема/социальный талант.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "процессы"
+              "icon": "lucide-file",
+              "title": "социальный талант"
             }
           }
         ]
@@ -183,20 +180,21 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "lean-terminal:Open terminal": false
+      "bases:Создать новую базу": false
     }
   },
-  "active": "f4d416498afbf938",
+  "active": "4e7cca85554d8f1c",
   "lastOpenFiles": [
+    "_resources/Отношения.md",
+    "процессы.canvas",
+    "основное.md",
+    "задания.md",
     "_resources/Uluk-Makwilams.md",
     "_resources/Pasted image 20260505143656.png",
     "_resources/deep_analysis.md",
     "_resources/Отчет о шизе.md",
-    "_resources/Отношения.md",
     "база данных/предисловие про базе данных.md",
     "база данных/формулы/формулы.md",
-    "процессы.canvas",
     "node_modules/function-bind/test",
     "node_modules/function-bind",
     "node_modules/glob-to-regexp",
@@ -224,9 +222,6 @@
     "node_modules/gemini-coverage/node_modules/fs-extra/docs/remove-sync.md",
     "node_modules/gemini-coverage/node_modules/fs-extra/docs/readJson.md",
     "node_modules/gemini-coverage/node_modules/fs-extra/docs/readJson-sync.md",
-    "node_modules/gemini-coverage/node_modules/fs-extra/docs/pathExists.md",
-    "node_modules/gemini-coverage/node_modules/fs-extra/docs/pathExists-sync.md",
-    "node_modules/gemini-coverage/node_modules/fs-extra/docs/outputJson.md",
     "node_modules/png-img/test/data/rgba4x1.png",
     "node_modules/png-img/test/data/rgb3x1_noalpha.png",
     "node_modules/png-img/test/data/test32x32.png",
